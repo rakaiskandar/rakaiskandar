@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raka Iskandar
-- 👀 I’m interested in Machine Learning and Frontend Web Developer
-- 🌱 I’m currently learning Python and React
+- 👀 I’m interested in Machine Learning and Software Engineer
+- 🌱 I’m currently learning Web Development and Frontend
 - 📫 How to reach me iskandarraka4@gmail.com
 
 <!---
