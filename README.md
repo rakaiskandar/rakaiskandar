@@ -1,4 +1,4 @@
-## Hello;
+## Hello World;
 - 👋 Hi, I’m Raka Iskandar
 - 👀 I’m interested in Machine Learning and Software Engineer
 - 🌱 I’m currently learning Web Development and Frontend
