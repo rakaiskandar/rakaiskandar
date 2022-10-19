@@ -1,7 +1,7 @@
 ## Hello World;
 - 👋 Hi, I’m Raka Iskandar
 - 👀 I’m interested in Machine Learning and Software Engineer
-- 🌱 I’m currently learning Web Development and Android Development
+- 🌱 I’m currently learning Web Development and Mobile Development
 - 📫 How to reach me iskandarraka4@gmail.com
 
 <!---
