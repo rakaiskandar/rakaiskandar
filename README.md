@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Raka Iskandar
 - 👀 I’m interested in Machine Learning and Software Engineer
 - 🌱 I’m currently learning Web Development and Mobile Development
-- 📫 How to reach me iskandarraka4@gmail.com
+- 📫 How to reach me at iskandarraka4@gmail.com
 
 <!---
 rakaiskandar/rakaiskandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
