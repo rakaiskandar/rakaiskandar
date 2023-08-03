@@ -15,7 +15,7 @@ const aboutMe = {
   language: [Javascript, HTML, CSS, Python, PHP, Java],
   frameworkAndLibrary: [Node.js, React, Laravel, Bootstrap, Express, Tailwind],
   design: [Figma],
-  other: [MySQL, Git, Tableau, MongoDB],
+  other: [MySQL, Git, Tableau, MongoDB, Firebase],
 }
 ```
 
