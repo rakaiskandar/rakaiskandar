@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 ## About Me
 ```javascript
 const aboutMe = {
-  language: [Javascript, HTML, CSS, Python, PHP, Java],
-  frameworkAndLibrary: [Node.js, React, Laravel, Bootstrap, Express, Tailwind],
+  language: [Javascript, Python, C, C++, Java],
+  frameworkAndLibrary: [Node.js, React, Laravel, Bootstrap, Express, Tailwind, daisyUI],
   design: [Figma],
   other: [MySQL, Git, Tableau, MongoDB, Firebase],
 }
