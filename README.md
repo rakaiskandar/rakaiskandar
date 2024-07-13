@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ## About Me
 ```javascript
 const aboutMe = {
-  language: [Javascript, Python, C, C++, Java],
+  language: [Javascript, Python, C, C++, Java, Typescript],
   frameworkAndLibrary: [Node.js, React, Laravel, Bootstrap, Express, Tailwind, daisyUI],
   design: [Figma],
   other: [MySQL, Git, Tableau, MongoDB, Firebase],
