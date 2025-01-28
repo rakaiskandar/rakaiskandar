@@ -18,8 +18,15 @@ const aboutMe = {
   other: [MySQL, Git, Tableau, MongoDB, Firebase],
 }
 ```
+## My Stats
+<p align="left">
+<a href="https://github.com/rakaiskandar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakaiskandar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakaiskandar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<h4 align="left">Im also available at:</h4>
+## I'm also available at
 <p align="left">
 <a href="https://www.linkedin.com/in/raka-iskandar-dinata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="22" width="30" /></a>
 <a href="https://www.instagram.com/rakaaaisk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="22" width="30" /></a>
