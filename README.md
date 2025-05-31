@@ -15,7 +15,7 @@ const aboutMe = {
   language: [Javascript, Python, C, C++, Java, Typescript],
   frameworkAndLibrary: [Django, Node.js, React, Laravel, Bootstrap, Express, Tailwind, daisyUI, shadcn],
   design: [Figma],
-  other: [MySQL, Git, Tableau, MongoDB, Firebase],
+  other: [MySQL, Git, Tableau, MongoDB, Firebase, PostgreSQL],
 }
 ```
 ## My Stats
