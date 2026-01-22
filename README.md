@@ -28,6 +28,6 @@ const aboutMe = {
 
 ## I'm also available at
 <p align="left">
-<a href="https://www.linkedin.com/in/raka-iskandar-dinata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="22" width="30" /></a>
+<a href="https://www.linkedin.com/in/rakaiskandar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="22" width="30" /></a>
 <a href="https://www.instagram.com/rakaaaisk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="22" width="30" /></a>
 </p>
