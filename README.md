@@ -12,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 ## About Me
 ```javascript
 const aboutMe = {
-  language: [Javascript, Python, C, C++, Java, Typescript],
-  frameworkAndLibrary: [Django, Node.js, React, Laravel, Bootstrap, Express, Tailwind, daisyUI, shadcn],
+  language: [Javascript, Python, Typescript, PHP, C, C++, Java, Dart],
+  frameworkAndLibrary: [React, Next.js, Django, FastAPI, Laravel, Express.js, Flutter, Expo],
   design: [Figma],
-  other: [MySQL, Git, Tableau, MongoDB, Firebase, PostgreSQL],
+  other: [MySQL, Git, MongoDB, Firebase, PostgreSQL, Supabase],
 }
 ```
 ## My Stats
