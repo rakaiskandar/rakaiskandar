@@ -21,8 +21,8 @@ const aboutMe = {
 ## My Stats
 <p align="left">
 <a href="https://github.com/rakaiskandar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakaiskandar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakaiskandar&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=rakaiskandar&theme=holi&show=contributions,all_time_contribs@show_icons=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rakaiskandar&theme=holi&layout=compact"/>
 </a>
 </p>
 
